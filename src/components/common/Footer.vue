@@ -11,7 +11,7 @@
 
 <script>
     export default {
-        props:['bg','title']
+        props:['bg']
     }
 </script>
 

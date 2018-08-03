@@ -56,7 +56,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   /* text-align: center; */
   color: #2c3e50;
-  /* margin-top: 60px; */
+  margin: 1rem 0 .6rem 0;
 }
 body{
   font-size: .32rem

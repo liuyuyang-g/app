@@ -6,7 +6,8 @@ import router from './router'
 import '@/assets/common.css'
 import '@/assets/rem.js'
 
-Vue.config.productionTip = false
+Vue.config.productionTip = false;
+Vue.config.url = 'https://bird.ioliu.cn/v1?url=';
 
 /* eslint-disable no-new */
 new Vue({

@@ -21,6 +21,9 @@
         line-height: 1rem;
         color:#fff;
         font-family:Georgia, 'Times New Roman', Times, serif;
+        position: fixed;
+        top: 0;
+        width: 100%;
     }
     .header-home,.header-space{
         width:1.5rem;
